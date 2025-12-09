@@ -153,3 +153,8 @@ footer {
   text-align: center;
   color: #aaa;
 }
+
+section h2 {
+  margin-top: 2rem;   /* space above header */
+  margin-bottom: 1rem; /* space below header */
+}
